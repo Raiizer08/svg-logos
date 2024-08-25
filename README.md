@@ -1,2 +1,2 @@
 # svg-logos
-svg logos
+cybersecurity svg logos
